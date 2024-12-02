@@ -1,0 +1,47 @@
+[
+  {
+    "Title": "Над прірвою в житі",
+    "YearOfPublishing": 1951,
+    "Authors": [ "Дж.Д. Селінджер" ],
+    "PublishingHouse": {
+      "Name": "Little, Brown and Company",
+      "Address": "Нью-Йорк, США"
+    }
+  },
+  {
+    "Title": "1984",
+    "YearOfPublishing": 1949,
+    "Authors": [ "Джордж Орвелл" ],
+    "PublishingHouse": {
+      "Name": "Secker & Warburg",
+      "Address": "Лондон, Великобританія"
+    }
+  },
+  {
+    "Title": "Убити пересмішника",
+    "Authors": [ "Гарпер Лі" ],
+    "YearOfPublishing": 1960,
+    "PublishingHouse": {
+      "Name": "J.B. Lippincott & Co.",
+      "Address": "Філадельфія, США"
+    }
+  },
+  {
+    "Title": "Великий Гетсбі",
+    "Authors": [ "Френсіс Скотт Фіцджеральд" ],
+    "YearOfPublishing": 1925,
+    "PublishingHouse": {
+      "Name": "Charles Scribner's Sons",
+      "Address": "Нью-Йорк, США"
+    }
+  },
+  {
+    "Title": "Мобі Дік",
+    "Authors": [ "Герман Мелвілл" ],
+    "YearOfPublishing": 1851,
+    "PublishingHouse": {
+      "Name": "Harper & Brothers",
+      "Address": "Нью-Йорк, США"
+    }
+  }
+]
